@@ -1,9 +1,9 @@
 # -*- mode: snippet -*-
 # contributer: Yusuke Tsutsumi <tsutsumi.yusuke@gmail.com>
-# name: func {}
+# name: func
 # key: func
 # description: func snippet
 # --
-func ${1:Name}(${2:Arguments}) ${3:ReturnType} {
+func ${1:name}(${2:arguments}) ${3:returntype} {
 	$0
 }
