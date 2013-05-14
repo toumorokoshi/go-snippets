@@ -5,5 +5,5 @@
 # description: add a test method
 # --
 func Test${1:Feature}(t *testing.T) {
-	0
+	$0
 }
