@@ -42,3 +42,4 @@
 (require 'yasnippet)
 
 (provide 'go-snippets)
+;;; go-snippets.el ends here
